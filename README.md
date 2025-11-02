@@ -3,7 +3,7 @@
 **Auralynx** is a real-time AI-based transcription tool that converts audio into accurate text using **OpenAI Whisper** and a modern **Gradio web interface**.  
 It supports live microphone input or file uploads and displays transcribed text, detected language, and confidence scores.
 
----
+--- 
 
 ## 🚀 Features
 
